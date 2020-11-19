@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+body {
+    background: #000;
+    color: #fff;
+}
+
+#wrapper {
+    max-width: 100%;
+    padding: 15px;
+    ;
+}
